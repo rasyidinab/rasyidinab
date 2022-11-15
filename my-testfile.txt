@@ -1,4 +1,4 @@
 My Test File
 - Ini adalah repo untuk uji coba repo
-- Isi repo ini hanya coba2 repo
 - Repo ini juga untuk coba-coba kolab dab commit
+- Uji coba tambah file vlog
